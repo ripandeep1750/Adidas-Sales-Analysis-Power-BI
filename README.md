@@ -22,12 +22,12 @@ Enable stakeholders to:
 | Avg. Profit Margin | Average percentage profit on sales | 42.30% |
 
 ## 📈 Visualizations
-- **Monthly Sales Trend:** Area chart showing sales across months
-- **State-wise Sales:** Map showing geographic distribution
-- **Region-wise Sales:** Donut chart comparing regional contribution
-- **Product-wise Sales:** Bar chart of top product categories
-- **Retailer-wise Sales:** Bar chart comparing retailer performance
-- **Slicers:** Sales method (In-store, Online, Outlet), Year, and Month
+- **Monthly Sales Trend:** Area chart showing sales across months.
+- **State-wise Sales:** Map showing geographic distribution.
+- **Region-wise Sales:** Donut chart comparing regional contribution.
+- **Product-wise Sales:** Bar chart of top product categories.
+- **Retailer-wise Sales:** Bar chart comparing retailer performance.
+- **Slicers:** Sales method (In-store, Online, Outlet), Year, and Month.
 
 ## 🔍 Key Insights
 - Sales peak in **July ($95M)** and are lowest in **March ($57M)**, showing clear seasonality.
@@ -54,4 +54,4 @@ Adidas-Sales-Analysis-Power-BI/
 ## ▶️ How to Use
 1. Clone or download this repository.
 2. Open `Adidas_Sales_Dashboard.pbit` in Power BI Desktop.
-3. When prompted, point the data
+3. When prompted, point the data.
