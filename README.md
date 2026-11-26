@@ -14,7 +14,7 @@ Enable stakeholders to:
 
 ## 📊 Key KPIs
 | KPI | Description | Value |
-
+|---|---|---|
 | Total Sales | Overall revenue generated | $899.90M |
 | Total Profit | Total profit earned from sales | $332.13M |
 | Total Units Sold | Number of units sold | 18M |
